@@ -1,0 +1,11 @@
+body {
+    background-color: #fcffdcf3;
+    background-image: none;
+    color: rgb(34, 34, 17);
+}
+
+h2,
+h3,
+header {
+    color: rgb(31, 34, 17);
+}
