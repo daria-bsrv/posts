@@ -612,6 +612,20 @@
       "body": "вап",
       "userId": 3,
       "likes": 0
+    },
+    {
+      "id": "76ce",
+      "title": "фа",
+      "body": "фкфафм",
+      "userId": "5",
+      "likes": 0
+    },
+    {
+      "id": "788c",
+      "title": "фа",
+      "body": "сссс",
+      "userId": "2",
+      "likes": 0
     }
   ],
   "comments": [
@@ -4114,6 +4128,20 @@
       "name": "ex eaque eum natus",
       "email": "Emma@joanny.ca",
       "body": "perspiciatis quis doloremque\nveniam nisi eos velit sed\nid totam inventore voluptatem laborum et eveniet\naut aut aut maxime quia temporibus ut omnis"
+    },
+    {
+      "id": "7eb3",
+      "postId": 1,
+      "body": "лалала",
+      "name": "Пользователь",
+      "email": "user@example.com"
+    },
+    {
+      "id": "7585",
+      "postId": 31,
+      "body": "dsvdv",
+      "name": "Пользователь",
+      "email": "user@example.com"
     }
   ],
   "users": [
